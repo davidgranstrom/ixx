@@ -2,9 +2,9 @@ ixx - for laptop ensemble
 =========================
 *David Granström 2012*
 
-##overview
+## overview
 
-###setup
+### setup
 
 'ixx' can be played by three or more performers. The speaker setup should
 be in a circular formation, where each voice occupy a certain part of the
@@ -18,22 +18,22 @@ Ideally, each performer should have their own speaker. It is also possible to
 perform 'ixx' with each voice in stereo. This is preferred over mono if there
 are less than six performers participating.
 
-###performance notes
+### performance notes
 Each voice (high, mid, low) should always play the note events in unison
 throughout the piece.  If a note event is accidentally triggered by the
 performer, he/she will have to wait for the next event to take place before
 advancing any further. There is an **event counter** in the graphical interface
 which can be of help in such situations.
 
-##instructions
+## instructions
 
-###preparation
+### preparation
 
 * Configure all loudspeakers to the same output level.
 
 * Route each of the different voices (high, mid, low) to adjacent speakers - in order to form groups of voices.
 
-###performance
+### performance
 
 0. In case anything has been tested/modified since starting the program ('ixx'),
 press `ESC` to do a full reset.
@@ -58,9 +58,9 @@ during a note event. If you choose to increase during a note event, you could
 also decrease the same parameter, in order to create a small "swell/bow" over the
 note event.
 
-##keybindings
+## keybindings
 
-###note events
+### note events
 * clean note event
     * `z` trigger long envelope
     * `x` trigger short envelope
@@ -77,7 +77,7 @@ note event.
     * `arrow up` increase index
     * `arrow down` decrease index
 
-###general
+### general
 
 * `<ENTER>` start/stop
 
